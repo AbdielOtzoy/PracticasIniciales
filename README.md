@@ -14,11 +14,7 @@ Este es el repositorio donde se estarán subiendo los informes respectivos al cu
 
 ### 📹 Links de los videos
 
-- [Video 1: Introducción al Curso](#)
-- [Video 2: Instalación de Herramientas](#)
-- [Video 3: Primer Proyecto](#)
-- [Video 4: Análisis de Resultados](#)
-- [Video 5: Conclusiones y Próximos Pasos](#)
+- [Video 1: Mantenimiento a una computadora](https://www.youtube.com/watch?v=fUY0hSkQLsE)
 
 ---
 
