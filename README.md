@@ -12,26 +12,16 @@ Este es el repositorio donde se estarán subiendo los informes respectivos al cu
 
 ---
 
-### 📹 Links de los videos
+### 📹 ingresa a los informes desarrollados en el curso!
 
-- [Video 1: Mantenimiento a una computadora](https://www.youtube.com/watch?v=fUY0hSkQLsE)
-
----
-
-### 🛠️ Herramientas Utilizadas
-
-- **Lenguaje de Programación:** Python
-- **Editor de Código:** Visual Studio Code
-- **Control de Versiones:** Git y GitHub
+- [Informe 1: Mantenimiento a una computadora](./informe1)
 
 ---
+
 
 ### 📈 Progreso del Curso
 
-- [x] Semana 1: Configuración del entorno
-- [x] Semana 2: Primer Proyecto
-- [ ] Semana 3: Análisis de Datos
-- [ ] Semana 4: Presentación Final
+- [x] a
 
 ---
 
@@ -51,9 +41,9 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
 Para cualquier consulta o sugerencia, no dudes en contactarme:
 
-- **Correo:** abdiel.otzoy@example.com
+- **Correo:** abdielotzoy@example.com
 - **GitHub:** [AbdielOtzoy](https://github.com/AbdielOtzoy)
 
 ---
 
-¡Gracias por visitar mi repositorio y ser parte de este emocionante viaje de aprendizaje!
+¡Gracias por visitar mi repositorio!
