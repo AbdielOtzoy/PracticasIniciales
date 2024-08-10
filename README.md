@@ -15,13 +15,7 @@ Este es el repositorio donde se estarán subiendo los informes respectivos al cu
 ### 📹 ingresa a los informes desarrollados en el curso!
 
 - [Informe 1: Mantenimiento a una computadora](./informe1)
-
----
-
-
-### 📈 Progreso del Curso
-
-- [x] a
+- [Informe 2: Instalación de Linux y conexiones de red](./informe2)
 
 ---
 
@@ -41,7 +35,7 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
 Para cualquier consulta o sugerencia, no dudes en contactarme:
 
-- **Correo:** abdielotzoy@example.com
+- **Correo:** abdielotzoy@gmail.com
 - **GitHub:** [AbdielOtzoy](https://github.com/AbdielOtzoy)
 
 ---
