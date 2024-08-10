@@ -8,6 +8,6 @@
 
 ### 📚 Links del informe
 - [Video 1: instalación de linux](https://www.youtube.com/watch?v=C_OjnFjN4Yo)
-- [Video 2: configuraciones de red](https://drive.google.com/file/d/1UXOAQwOZsnRS-E1ez9Hc8Vf6qg_OpNQb/view?usp=sharing)
+- [Video 2: configuraciones de red](https://drive.google.com/file/d/1AAiZkpaBnBtLdPuAKhd-uKrMzcJNlgEi/view?usp=sharing)
 
 ---
